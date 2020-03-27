@@ -1,0 +1,14 @@
+name: garage-pipelines
+pipelines:
+  nodejs:
+    url: https://ibm-garage-cloud.github.io/garage-pipelines/stable/nodejs.tar.gz
+    name: nodejs
+  liberty-maven:
+    url: https://ibm-garage-cloud.github.io/garage-pipelines/stable/liberty-maven.tar.gz
+    name: liberty-maven
+  java-maven:
+    url: https://ibm-garage-cloud.github.io/garage-pipelines/stable/java-maven.tar.gz
+    name: java-maven
+  java-gradle:
+    url: https://ibm-garage-cloud.github.io/garage-pipelines/stable/java-gradle.tar.gz
+    name: java-gradle
